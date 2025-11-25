@@ -1,4 +1,4 @@
-# Telecom Churn Rate
+# Telecom Churn Rate Prediction and analysis
 
 ## 🌟 Overview
 This repository contains an end-to-end machine learning pipeline for predicting customer churn in telecommunications companies. The project implements a complete ML workflow from data exploration to deployment, providing actionable insights to improve customer retention strategies in the competitive telecom market.
